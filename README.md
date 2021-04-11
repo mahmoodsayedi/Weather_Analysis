@@ -32,7 +32,3 @@ Also, as with the vacation search folder, there is a hotel at each location.
 
 ![vacation_itinerary_markers](https://github.com/Wall-E28/world_weather_analysis/blob/master/vacation_itinerary/weatherpy_travel_map_markers.png)
 
-### Bonus: Weather Data
-
-As an addon to these three folders, there is a weather data folder that has valuable linear regression models looking at the correlation between different weather infromation and latitude. These take into consideration the different weather information that are used in the weather database folder. Please view this if you are interested.
-
